@@ -1,1 +1,5 @@
+> pwd
+    /files
 
+> mkdir git_project_1
+> cd git_project_1
